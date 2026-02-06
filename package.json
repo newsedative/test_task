@@ -1,0 +1,8 @@
+{
+  "name": "test_task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/newsedative/test_task.git",
+  "author": "Dsh <knowslana@gmail.com>",
+  "license": "MIT"
+}
